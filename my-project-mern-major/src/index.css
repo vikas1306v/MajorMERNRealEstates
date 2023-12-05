@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+
+/* .image_house{
+    background-image: url('https://housing-images.n7net.in/012c1500/0ff43d458bbf99ea0506e3ece3c39e66/v0/fs/jaypee_kallisto_townhomes-sector_128-noida-jaypee_greens.jpeg');
+} */
+
+.profile-image{
+    background-image: url("https://play-lh.googleusercontent.com/C9CAt9tZr8SSi4zKCxhQc9v4I6AOTqRmnLchsu1wVDQL0gsQ3fmbCVgQmOVM1zPru8UH=w240-h480-rw");
+}
